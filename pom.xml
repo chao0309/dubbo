@@ -10,6 +10,7 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>provider</module>
+    <module>rabbitmq</module>
   </modules>
 
   <name>dubbo</name>
