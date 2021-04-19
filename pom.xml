@@ -11,6 +11,7 @@
   <modules>
     <module>provider</module>
     <module>rabbitmq</module>
+    <module>rabbitmq-comsumer</module>
   </modules>
 
   <name>dubbo</name>
